@@ -1,4 +1,7 @@
-# offshore-digital-twin-framework
+# Ooffshore-digital-twin-framework
+![Status](https://img.shields.io/badge/Status-Architecture%20Design-blue)
+
+![Status](https://img.shields.io/badge/Status-Data%20Acquisition-yellow)
 
 Project Status: Literature Review & Conceptual Framework
 
